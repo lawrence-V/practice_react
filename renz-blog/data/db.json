@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Introduction to JavaScript",
+            "body": "JavaScript is a versatile programming language used for web development.",
+            "author": "John Doe"
+        },
+        {
+            "id": 2,
+            "title": "Python Basics",
+            "body": "Python is a popular high-level programming language known for its simplicity and readability.",
+            "author": "Jane Smith"
+        },
+        {
+            "id": 3,
+            "title": "HTML and CSS Fundamentals",
+            "body": "HTML and CSS are the building blocks of web development.",
+            "author": "Bob Johnson"
+        }
+    ]
+}
