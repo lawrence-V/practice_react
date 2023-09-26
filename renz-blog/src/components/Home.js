@@ -1,6 +1,7 @@
 import BlogList from './BlogList';
 import { Blocks } from 'react-loader-spinner'
 import useFetch from '../useFetch';
+import { Button } from '@chakra-ui/react';
 
 
 
@@ -10,6 +11,9 @@ const Home = () => {
 
     return ( 
         <div className="home">
+
+
+
             {error && <div> {error} </div>}
            {isPending && (
              <div className="home center">
